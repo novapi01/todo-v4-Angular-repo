@@ -1,0 +1,42 @@
+.screate{
+    padding: 2px;
+    text-align: center;
+   
+    color : gainsboro;
+}
+.button {
+    background-color: #e7e7e7; color: black;
+    border: none;
+
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .btn {
+    border-radius: 10px;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 12px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+  input[type=text], select {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 10px 15px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
